@@ -3,10 +3,8 @@
 Python web application (using Django) to store family recipes.
  
 ## What Does This Tool Do?
-INSERT DIAGRAM
- 
-## Motivation
-## How to Run
+Just a site for review
+
 ## Key Python Modules Used
  
 - Django (v1.8.4)
